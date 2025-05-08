@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>APK Installer Appcast</title>
+        <description>Most recent updates to APK Installer</description>
+        <language>en</language>
+        <item>
+            <title>Version 1.5.0</title>
+            <sparkle:releaseNotesLink>
+                https://appcast.yutokun.com/apk-installer/1.5.0.html
+            </sparkle:releaseNotesLink>
+            <pubDate>Sun, 26 Dec 2021 22:49:00 +0900</pubDate>
+            <enclosure url="https://github.com/yutokun/APK-Installer/releases/download/appcast-test/APK.Installer.msi"
+                       sparkle:version="1.5.0"
+                       sparkle:os="windows"
+                       sparkle:installerArguments="/passive"
+                       length="0"
+                       type="application/octet-stream" />
+        </item>
+    </channel>
+</rss>
