@@ -6,7 +6,7 @@
         <item>
             <title>1.0.1</title>
             <pubDate>Thu, 08 May 2025 17:06:27 +0900</pubDate>
-            <sparkle:version>1.0.0</sparkle:version>
+            <sparkle:version>1.0.1</sparkle:version>
             <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://appcast.yutokun.com/apk-installer-macos/APK%20Installer.zip" length="7174645" type="application/octet-stream"/>
