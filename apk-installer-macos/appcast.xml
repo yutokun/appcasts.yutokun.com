@@ -5,12 +5,12 @@
         <language>en</language>
         <item>
             <title>0.2.0</title>
-            <pubDate>Sun, 18 May 2025 22:00:59 +0900</pubDate>
+            <pubDate>Sun, 18 May 2025 23:30:11 +0900</pubDate>
             <sparkle:version>0.2.0</sparkle:version>
             <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:releaseNotesLink>https://appcast.yutokun.com/apk-installer-macos/APK%20Installer.html</sparkle:releaseNotesLink>
-            <enclosure url="https://appcast.yutokun.com/apk-installer-macos/APK%20Installer.zip" length="10597280" type="application/octet-stream"/>
+            <enclosure url="https://appcast.yutokun.com/apk-installer-macos/APK%20Installer.zip" length="10597443" type="application/octet-stream"/>
         </item>
         <item>
             <title>0.1.0</title>
