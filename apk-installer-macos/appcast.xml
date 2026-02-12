@@ -4,6 +4,15 @@
         <title>APK Installer</title>
         <language>en</language>
         <item>
+            <title>0.4.0</title>
+            <pubDate>Thu, 12 Feb 2026 21:13:03 +0900</pubDate>
+            <sparkle:version>0.4.0</sparkle:version>
+            <sparkle:shortVersionString>0.4.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://appcast.yutokun.com/apk-installer-macos/APK%20Installer.html</sparkle:releaseNotesLink>
+            <enclosure url="https://appcast.yutokun.com/apk-installer-macos/APK%20Installer.zip" length="13309472" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>0.3.1</title>
             <pubDate>Wed, 28 May 2025 00:27:34 +0900</pubDate>
             <sparkle:version>0.3.1</sparkle:version>
@@ -20,15 +29,6 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:releaseNotesLink>https://appcast.yutokun.com/apk-installer-macos/APK%20Installer.html</sparkle:releaseNotesLink>
             <enclosure url="https://appcast.yutokun.com/apk-installer-macos/APK%20Installer.zip" length="11506226" type="application/octet-stream"/>
-        </item>
-        <item>
-            <title>0.2.0</title>
-            <pubDate>Sun, 18 May 2025 23:30:11 +0900</pubDate>
-            <sparkle:version>0.2.0</sparkle:version>
-            <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink>https://appcast.yutokun.com/apk-installer-macos/APK%20Installer.html</sparkle:releaseNotesLink>
-            <enclosure url="https://appcast.yutokun.com/apk-installer-macos/APK%20Installer.zip" length="10597443" type="application/octet-stream"/>
         </item>
     </channel>
 </rss>
